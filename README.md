@@ -4,7 +4,7 @@
 Android application that fully implements the Pokemon Pokédex, with the help of [PokéAPI](https://pokeapi.co/).
 
 
-## Screenshots
+## Demo
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/demo.gif" width="400" height="800" >
