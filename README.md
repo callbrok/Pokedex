@@ -6,7 +6,7 @@ Android application that fully implements the Pokemon Pokédex, with the help of
 
 ## Screenshots
 
-<p float="left">
+<p float="center">
   <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/demo.gif" width="400" height="800" >
 
   <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/menu.jpeg" width="400" height="800" >
