@@ -1,5 +1,19 @@
-# pokedex
 
-![build](https://github.com/Xerox-Parc/pokedex/workflows/build/badge.svg?branch=master)
+## Pokédex
 
- Android application consuming the [PokéAPI](https://pokeapi.co/). Term paper of Mobile Programming course.
+Android application that fully implements the Pokemon Pokédex, with the help of [PokéAPI](https://pokeapi.co/).
+
+
+## Screenshots
+
+
+
+## Authors
+
+- [@callbrok](https://github.com/callbrok)
+- [@Alessio1100](https://github.com/Alessio1100)
+- [@Ivan-Palm](https://github.com/Ivan-Palm)
+- [@CptPackage](https://github.com/CptPackage)
+- [@buracchi](https://github.com/buracchi)
+- [@DaniloDamico](https://github.com/DaniloDamico)
+
