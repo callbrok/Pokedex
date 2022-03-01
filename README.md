@@ -9,7 +9,7 @@ Android application that fully implements the Pokemon Pokédex, with the help of
 
 <img src="" data-canonical-src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/demo.gif" width="200" height="400" />
 
-<img src="" data-canonical-src="https://github.com/callbrok/pokedex/blob/master/pokedex_image/menu.jpeg?raw=true" width="200" height="400" />
+<img src="" data-canonical-src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/menu.jpeg" width="200" height="400" />
 
 
 
