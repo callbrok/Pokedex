@@ -7,12 +7,14 @@ Android application that fully implements the Pokemon Pokédex, with the help of
 ## Demo
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/demo.gif" width="400" height="800" >
+  <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/demo.gif" width="320" height="570" >
 
-  <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/menu.jpeg" width="400" height="800" >
+  <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/menu.jpeg" width="320" height="570" >
+  
+  <img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/pokedex.jpeg" width="320" height="570" >
 </p>
 
-<img src="https://raw.githubusercontent.com/callbrok/pokedex/master/pokedex_image/pokedex.jpeg" width="400" height="800" >
+
 
 
 
